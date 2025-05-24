@@ -1,0 +1,2 @@
+annotation.json filter=lfs diff=lfs merge=lfs -text
+pretrained_weights.h5 filter=lfs diff=lfs merge=lfs -text
