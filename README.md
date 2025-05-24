@@ -43,10 +43,10 @@ Both models output binary segmentation masks, with probability scores indicating
 The models successfully segment building rooftops from satellite imagery, with CNN2 (UNet-based) providing finer details due to its architecture. The calculated rooftop areas are used to estimate solar energy potential, enabling practical applications for solar panel installation planning.
 
 ### Output Screenshots
-Below are example outputs from the project. (Replace the placeholders with actual screenshots by uploading them to the GitHub repository and updating the paths.)
+Below are example outputs from the project.
 
 ![Predicted vs Ground Truth Segmentation](screenshots/output1.png)  
-*Caption*: Comparison of predicted rooftop segmentation (left) and ground truth (right).
+Comparison of predicted rooftop segmentation (left) and ground truth (right).
 
 ![Solar Energy Potential Map](screenshots/output2.png)  
-*Caption*: Visual representation of the solar energy potential map based on segmented rooftop areas.
+Visual representation of the solar energy potential map based on segmented rooftop areas.
